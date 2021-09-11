@@ -1,4 +1,4 @@
-# YouTube-video-auudio-Downloader
+# YouTube-video-audio-Downloader
 It is YouTube video or audio downloading tool developed in python.
 The YTD Video Downloader Using Python is developed
 using Python Tkinter, This YTD Downloader Python is an
