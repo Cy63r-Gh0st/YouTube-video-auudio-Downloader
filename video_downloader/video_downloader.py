@@ -49,10 +49,8 @@ root.title("YTD Downloader")
 root.geometry("450x400") #set window
 root.resizable(0,0)
 root.columnconfigure(0,weight=1)#set all content in center.
-# img = ImageTk.PhotoImage(Image.open(r"D:\crome downloads\music\732269.jpg"))
 c1 = Canvas(root, width=400,height=400)
 c1.pack(fill="both", expand=True)
-# c1.create_image(0, 0, image=img,anchor="nw")
 
 #Ytd Link Label
 c1.create_text( 240, 60, text = "Enter the URL of the Video",font=('Arial',15))
